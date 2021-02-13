@@ -25,6 +25,7 @@ d. Gender
 e. Company Size
 
 f. Total Years of Experience
+![1](https://github.com/Owinoh-victor/Data-Science-Challenge--DAP-EldoHub/blob/main/screenshots/4.JPG)
 
 ##### Technology Popularity
 
