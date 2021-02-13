@@ -25,7 +25,7 @@ d. Gender
 e. Company Size
 
 f. Total Years of Experience
-![1](https://github.com/Owinoh-victor/Data-Science-Challenge--DAP-EldoHub/blob/main/screenshots/4.JPG)
+![1](https://github.com/Owinoh-victor/EDA-on-IT-Salary-Suevey-2020/blob/main/screenshot/s1.JPG)
 
 ##### Technology Popularity
 
@@ -36,6 +36,7 @@ b. Susidiary Technology
 c. Popularity By Company Type
 
 d. Poplularity By Years of Experience
+![2](https://github.com/Owinoh-victor/EDA-on-IT-Salary-Suevey-2020/blob/main/screenshot/s2.JPG)
 
 ##### Salary & Technology
 
@@ -44,6 +45,7 @@ a. Average Total Income By position
 b. Average Total Income By Main and Subsidiary technology
 
 c. Average Total Income By Employment Status
+![3](https://github.com/Owinoh-victor/EDA-on-IT-Salary-Suevey-2020/blob/main/screenshot/s3.JPG)
 
 ##### Data Science Drill Down
 
@@ -54,6 +56,7 @@ b. Best paying cities to work as a Data Scientist
 c. Data Roles Pay per technology
 
 d. Data science pay by seniority and years of experince
+![4](https://github.com/Owinoh-victor/EDA-on-IT-Salary-Suevey-2020/blob/main/screenshot/s4.JPG)
 
 ##### Impacts of Covid 19 to IT Roles
 
@@ -64,6 +67,7 @@ b. Additional Monetary Support from Employers
 c. Shorter Working Hours due to covid 19
 
 d. Job Loss by Position due to covid 19
+![5](https://github.com/Owinoh-victor/EDA-on-IT-Salary-Suevey-2020/blob/main/screenshot/s5.JPG)
 
 ##### Other Explorations
 
@@ -74,3 +78,4 @@ b. Total Income By Main Language at work
 c. Number of Vacation Daya By Employment status
 
 d. Number of Vacation Daya By Company Type
+![6](https://github.com/Owinoh-victor/EDA-on-IT-Salary-Suevey-2020/blob/main/screenshot/s6.JPG)
